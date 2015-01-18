@@ -1,5 +1,4 @@
-
-ok Notes Using Vanilla JS
+A note keeping app for a book/document implemented using vanilla javascript 
 
 ### Following Classes Exists
 
